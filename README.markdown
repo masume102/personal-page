@@ -9,9 +9,9 @@
 - حداقل ۵ بار استقرار با تغییرات مختلف
 
 ## نحوه اجرا
-1. مخزن را کلون کنید: `git clone https://github.com/USERNAME/personal-page.git`
+1. مخزن را کلون کنید: `git clone https://github.com/masume102/personal-page.git`
 2. فایل‌های `index.html` و `styles.css` را در یک مرورگر باز کنید.
-3. برای مشاهده نسخه آنلاین، به لینک GitHub Pages مراجعه کنید: [لینک پروژه](https://USERNAME.github.io/personal-page/)
+3. برای مشاهده نسخه آنلاین، به لینک GitHub Pages مراجعه کنید: [لینک پروژه](https://github.com/masume102/personal-page.git/)
 
 ## تاریخچه استقرار
 1. استقرار اولیه: صفحه اصلی با ساختار پایه

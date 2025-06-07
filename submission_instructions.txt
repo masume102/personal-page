@@ -5,8 +5,8 @@
 
 ### اطلاعات پروژه
 - نام پروژه: صفحه شخصی من
-- مخزن GitHub: https://github.com/USERNAME/personal-page
-- لینک GitHub Pages: https://USERNAME.github.io/personal-page/
+- مخزن GitHub: https://github.com/masume102/personal-page.git
+- لینک GitHub Pages: https://github.com/masume102/personal-page.git
 - فایل‌ها:
   - index.html: ساختار اصلی وب‌سایت
   - styles.css: استایل‌های وب‌سایت
